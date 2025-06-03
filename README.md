@@ -34,4 +34,4 @@ A side project to apply new technologies and customize daily tools in one place.
 
 ## 📌 License
 
-© 2025 Mina Nagy
+MIT © 2025 Mina Nagy
